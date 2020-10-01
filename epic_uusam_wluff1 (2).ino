@@ -1,4 +1,8 @@
+
+
+//led connected on pin 13
 void setup()
+  
 {
   for(int i=10; i<=13;i++){
     pinMode(i,OUTPUT);
